@@ -17,7 +17,7 @@ import {
   TableHead,
   TableHeader,
   TableRow
-} from "@/src/components/ui/table";
+} from "@/components/ui/table";
 import { Button } from "./ui/button";
 
 interface DataTableProps<TData, TValue> {

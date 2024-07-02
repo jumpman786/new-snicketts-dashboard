@@ -7,10 +7,10 @@
 /** @format */
 "use client";
 
-import { DataTable } from "@/src/components/DataTable";
+import { DataTable } from "@/components/DataTable";
 import { ColumnDef } from "@tanstack/react-table";
 import React from "react";
-import PageTitle from "@/src/components/PageTitle";
+import PageTitle from "@/components/PageTitle";
 
 type Props = {};
 type Payment = {
